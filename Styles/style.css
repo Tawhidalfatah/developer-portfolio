@@ -37,7 +37,7 @@
 nav {
     display: flex;
     justify-content: space-between;
-    padding: 50px 200px;
+    padding: 100px 200px;
 }
 
 nav ul {
@@ -62,10 +62,13 @@ nav li {
 .banner {
     display: flex;
     align-items: center;
-    margin: 0 120px 0 200px;
+    margin: 0 130px 0 400px;
+   
     
 }
-
+.Tawhid {
+    padding-left: 400px;
+}
 .banner-title {
     font-weight: 700;
     font-size: 85px;
@@ -213,7 +216,6 @@ section ul {
     display: flex;
     gap: 100px;
     background-color: #FFF8F3;
-    
     padding: 130px 150px;
 }
 
